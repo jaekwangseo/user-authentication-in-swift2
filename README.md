@@ -1,6 +1,6 @@
 # User-Authentication-in-Swift2
 
-Fixed errors that pop up when you try to compile the sample code from this tutorial on the latest Xcode(7.1.3): https://www.raywenderlich.com/85528/user-accounts-ios-ruby-rails-swift
+Fixed errors that pop up when you try to compile the sample code from this tutorial on the latest Xcode(7.3.1): https://www.raywenderlich.com/85528/user-accounts-ios-ruby-rails-swift
 
 Let me know if you have any issue compiling!
 
