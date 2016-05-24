@@ -4,7 +4,7 @@ Fixed errors that pop up when you try to compile the sample code from this tutor
 
 Let me know if you have any issue compiling!
 
-Please beware that my fixes might not be optimal since I am quite new to iOS dev and the Swift language.
+Please beware that I didn't bother fixing the warnings since they won't prevent you from compiling and running the app. Also, my fixes might not be optimal since I am quite new to iOS dev and the Swift language.
 
 
 
