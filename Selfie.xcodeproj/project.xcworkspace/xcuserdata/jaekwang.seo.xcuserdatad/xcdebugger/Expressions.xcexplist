@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.makeSignInRequest(String, userPassword : String) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "httpRequest.valueForHTTPHeaderField(&quot;Authorization&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "httpRequest.HTTPBody">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.signinBtnTapped(AnyObject) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.signinEmailTextField.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HTTPHelper.buildRequest(String!, method : String, authType : HTTPRequestAuthType, requestContentType : HTTPRequestContentType, requestBoundary : String) -&gt; NSMutableURLRequest:HTTPHelper.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "request.valueForHTTPHeaderField(&quot;Content-Type&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelfieCollectionViewController.collectionView(UICollectionView, didSelectItemAtIndexPath : NSIndexPath) -&gt; ():SelfieCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "self.dataArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelfieCollectionViewController.loadSelfieData() -&gt; ():SelfieCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ComposeViewController.(postBtnTapped() -&gt; ()).(closure #1):ComposeViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SelfieCollectionViewController.collectionView(UICollectionView, cellForItemAtIndexPath : NSIndexPath) -&gt; UICollectionViewCell:SelfieCollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cell.selfieTitle.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelfieCollectionViewController.(loadSelfieData() -&gt; ()).(closure #1):SelfieCollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "HTTPHelper.(sendRequest(NSURLRequest, completion : (NSData!, NSError!) -&gt; ()) -&gt; ()).(closure #1).(closure #2):HTTPHelper.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
